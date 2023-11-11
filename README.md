@@ -1,4 +1,4 @@
 # Hey I'm Rony
 - I love TypeScript
-- My code is very bad written
+- My code is very badly written
 - Ctrl + S
