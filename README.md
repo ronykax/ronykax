@@ -1,10 +1,10 @@
 # Hey I'm Rony
 - I love TypeScript
-- My code is very badly written
+- Currently learning Rust 🦀
 
 **I use:**
 - JS, TS, HTML, CSS, C#, Python
 - Svelte, React, Next
-- MySQL, MongoDB, Firebase
+- MongoDB, Firebase, Pocketbase
 - Tailwind, Figma, Spotify
 - A shitty keyboard and mouse
