@@ -2,9 +2,8 @@
 - I love TypeScript
 - Currently learning Rust 🦀
 
-**I use:**
-- JS, TS, HTML, CSS, C#, Python
+**I use**
+- JS, TS, C#, Python
 - Svelte, React, Next
-- MongoDB, Firebase, Pocketbase
+- Pocketbase, MongoDB, Firebase
 - Tailwind, Figma, Spotify
-- A shitty keyboard and mouse
