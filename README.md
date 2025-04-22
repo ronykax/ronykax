@@ -1,4 +1,4 @@
-just a guy who loves building weird and stupid things
+just a guy who loves building cool shit
 
 - i mostly mess around with typescript and rust
 - i play [the finals](https://reachthefinals.com) a lot and think too much about [attack on titan](https://google.com/search?q=attack+on+titan&oq=attack+on+titan)
