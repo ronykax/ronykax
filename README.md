@@ -5,4 +5,4 @@ i make art disguised as software
 - [aot](https://google.com/search?q=attack+on+titan&oq=attack+on+titan) is a masterpiece btw
 - favorite game is [the finals](https://reachthefinals.com)
 
-<sub>ronykax[at]gmail[dot]com</sub>
+<sub>`ronykax[at]gmail[dot]com`</sub>
