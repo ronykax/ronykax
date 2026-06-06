@@ -1,4 +1,4 @@
-### making something from nothing.
+### typing colored text since 2020
 
 - [**keybored**](https://github.com/ronykax/keybored) - macOS app to bind hotkeys to execute actions.
 - [**bob**](https://github.com/ronykax/bob) - my personal AI agent built on OpenAI's agents SDK.
