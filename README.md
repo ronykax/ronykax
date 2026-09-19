@@ -9,4 +9,4 @@
 - [**drawcat**](https://github.com/drawcat-lol/app) - collection of poorly drawn cats.
 - [**year progress**](https://github.com/ronykax/year-progress) - discord bot tracking the current year's progress.
 
-for inquiries **ronykax@icloud.com**.
+for inquiries **biz@ronykax.com**.
